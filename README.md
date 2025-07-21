@@ -1,4 +1,4 @@
-# 🌐 Humanized Synthetic Profiles: Personality-Aligned Agents via LLMs
+# 🌐 Simulating Society: Leveraging Large Language Models as Citizen Agents to Study Urban Behavior
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
