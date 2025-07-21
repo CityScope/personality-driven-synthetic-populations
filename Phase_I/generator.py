@@ -9,10 +9,10 @@ This script orchestrates the two-phase pipeline:
 Each profile is completed, enriched, and saved in both JSON and TXT formats.
 
 Usage:
-    $ python main.py <LLM_MODEL>
+    $ python generator.py <LLM_MODEL>
 
 Example:
-    $ python main.py llama3.1:8b
+    $ python generator.py llama3.1:8b
 
 Author: José Miguel Nicolás García
 """
